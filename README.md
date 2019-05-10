@@ -20,6 +20,8 @@ _A small simple guide of how to run a jupyter notebook on a server._
     `ssh -L 8000:localhost:8888 USER@SERVER` 
 
 2. From the server:
+
+    `conda activate ENV_NAME`
     
     `jupyter lab`
     

@@ -25,6 +25,10 @@ _A small simple guide of how to run a jupyter notebook on a server._
     
     `jupyter lab`
     
+    Save token (e.g. `a721ba7fab1f8485d80986702bb19c11a3f87b0bf1931fde` in the case of http://localhost:8888/?token=a721ba7fab1f8485d80986702bb19c11a3f87b0bf1931fde)
+    
 3. From local machine, in browser:
     
     `http://localhost:8000`
+    
+4. Enter token

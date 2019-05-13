@@ -9,8 +9,9 @@ _A small simple guide of how to run a jupyter notebook on a server._
     `conda create -n ENV_NAME python=3 jupyter jupyterlab ipykernel [...]` 
     
     `conda activate ENV_NAME` 
+   
+    `python -m ipykernel install --user --name KERNEL_NAME`
     
-    `conda ipython kernel install --user --name=KERNEL_NAME` 
     
     Exit server and go back to local machine
  
